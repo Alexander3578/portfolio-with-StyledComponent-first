@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio-with-StyledComponent-first/static/css/main.f5b4e6f1.css",
+    "main.js": "/portfolio-with-StyledComponent-first/static/js/main.983ceab4.js",
+    "static/js/787.25eaef86.chunk.js": "/portfolio-with-StyledComponent-first/static/js/787.25eaef86.chunk.js",
+    "static/media/photo.jpg": "/portfolio-with-StyledComponent-first/static/media/photo.f3c4d7b4acf3ed8ac5e6.jpg",
+    "static/media/social-network.webp": "/portfolio-with-StyledComponent-first/static/media/social-network.f4264469c0e20ce5f20d.webp",
+    "static/media/New-York-blur.webp": "/portfolio-with-StyledComponent-first/static/media/New-York-blur.e294a9180f3031d1b313.webp",
+    "static/media/icons-sprite.svg": "/portfolio-with-StyledComponent-first/static/media/icons-sprite.64413f48dd347ced4097bcd51d08022e.svg",
+    "index.html": "/portfolio-with-StyledComponent-first/index.html",
+    "main.f5b4e6f1.css.map": "/portfolio-with-StyledComponent-first/static/css/main.f5b4e6f1.css.map",
+    "main.983ceab4.js.map": "/portfolio-with-StyledComponent-first/static/js/main.983ceab4.js.map",
+    "787.25eaef86.chunk.js.map": "/portfolio-with-StyledComponent-first/static/js/787.25eaef86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5b4e6f1.css",
+    "static/js/main.983ceab4.js"
+  ]
+}
